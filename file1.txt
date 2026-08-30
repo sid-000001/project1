@@ -1,1 +1,1 @@
-hello from remote repo with some changes.
+hello from remote repo.
